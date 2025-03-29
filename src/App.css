@@ -1,0 +1,28 @@
+.container{
+  width: 90vw;
+  height: 90vh;
+  background: rgba(255, 255, 255, 0.13);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.5px);
+  -webkit-backdrop-filter: blur(3.5px);
+  border: 1px solid rgba(255, 255, 255, 0.42);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  position: relative;
+  left:70px;
+  color: white;
+  display: flex;
+  
+}
+.load{
+  color: white;
+  background-color: black;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  font-size: 18px;
+}
