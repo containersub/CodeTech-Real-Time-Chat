@@ -119,3 +119,7 @@ This is a real-time chat application that allows users to connect and communicat
 ```
 
 Remember to replace the bracketed placeholders with the actual details of your project. Good luck with your GitHub upload!
+
+**Output:**
+
+![Image](https://github.com/user-attachments/assets/dcbea947-3be0-4d56-998c-6c472ce528d1)
